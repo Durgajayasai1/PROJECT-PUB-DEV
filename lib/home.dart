@@ -76,6 +76,7 @@ class _HomeState extends State<Home> {
 
 // Understanding Pub.dev and making connection how it is helping Flutter Community
 // LEARNED ABOUT SOME PACKAGES IN THIS PROJECT
+// Cupertino Icons (inbuilt)
 // Fonts Awesome Icons package
 // Read More package
 // Badges package
